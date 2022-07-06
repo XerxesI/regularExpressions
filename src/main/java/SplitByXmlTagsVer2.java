@@ -16,6 +16,5 @@ public class SplitByXmlTagsVer2 {
         }
         System.out.println(text.matches("<TCR.{16}SD.+"));
 
-
     }
 }
